@@ -2,6 +2,6 @@
 
 define("SALT", "ThisIs-A-Salt123");
 define("DB_HOST", "localhost");
-define("DB_USER", "uyan6jiq0hke0");
-define("DB_PASSWORD", "py7twv0ae8rk");
-define("DB_NAME", "dbhbnpg5rr3sf7");
+define("DB_USER", "username");
+define("DB_PASSWORD", "password");
+define("DB_NAME", "database");
